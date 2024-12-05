@@ -1,0 +1,17 @@
+# Ignorar carpetas generadas por Unity en el proyecto dentro de 'Test'
+Test/Library/
+Test/Temp/
+Test/Obj/
+Test/Build/
+Test/Builds/
+Test/Logs/
+Test/UserSettings/
+
+# Ignorar archivos específicos de Unity
+Test/*.csproj
+Test/*.sln
+Test/*.unityproj
+Test/*.pidb
+Test/*.tmp
+Test/*.log
+
